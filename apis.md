@@ -147,7 +147,7 @@ Here are a few short videos to help you get started:
 ### Support & help
 
 - Join the [Hasura discord server](https://discord.gg/vBPpJkS). We're super active and someone from the team or the community will help out any time of the day if you have any questions!
-- Tanmai will be hanging around at the hackathon if you're present offline! Do say Hi and ask him as many questions as you'd like:
+- Tanmai will be hanging around at the hackathon if you're present online! Do say Hi and ask him as many questions as you'd like:
 
 <img src="https://api.react-finland.fi/media/graphql-finland-2018/speakers/tanmai.jpg" alt="Tanmai" width="200px">
 
